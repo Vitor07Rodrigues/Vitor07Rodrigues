@@ -71,6 +71,6 @@ O Vitaly está em desenvolvimento ativo. No momento, o foco tem sido consolidar 
 ---
 
 ### 📇 Como me encontrar
-* **LinkedIn:** [Seu LinkedIn Aqui](www.linkedin.com/in/vitor-sousa-rodrigues-a09963379)
-* **E-mail:** [Seu E-mail Aqui](vituxt0995@gmail.com)
--->
+* **LinkedIn:** [Linkedin](www.linkedin.com/in/vitor-sousa-rodrigues-a09963379)
+* **E-mail:** [E-mail para contato](vituxt0995@gmail.com)
+
