@@ -2,6 +2,8 @@
 
 Sou desenvolvedor com 1 ano de experiência na área de tecnologia, atualmente atuando no desenvolvimento e engenharia na **linhauni**. Sou apaixonado pelo ecossistema **Backend**, focado em arquitetura de sistemas escaláveis e banco de dados, mas também possuo conhecimentos em Frontend para garantir a entrega ponta a ponta nas aplicações.
 
+Atualmente estou trabalhando no meu tcc, que atualmente segue pricado, porem com o fim do projeto disponibilizarei o mesmo aqui.
+
 ### 💻 Minhas Habilidades e Ferramentas
 
 **Backend & Linguagens**  
